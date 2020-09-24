@@ -1,0 +1,174 @@
+body{
+	background-color: black;
+}
+
+header{
+	height: 10px;
+	margin-left: 35%;
+}
+h1 { 
+text-align: center;
+font-family:"Gotham A","Gotham B",sans-serif;
+margin-top: 30px; 
+}
+
+li {
+  display: inline;
+  float: left;
+  font-family:"gotham A","gotham B",sans-serif;
+  font-weight: 300;
+  line-height: 1.625;
+  padding-right: 30px;
+}
+nav li a {
+    padding: 5px;
+    text-decoration: none;
+    font-size: 16px;
+    font-weight: bold;
+    text-transform: uppercase;
+	display: block;
+	border-radius: 8px;
+	color:Tomato;
+}
+
+ul {
+  list-style-type: none;
+  padding: 1px;
+}
+
+.picture {
+	background-image: url("moscoww.jpg");
+	background-size: 100%;
+	height: 500px;
+	width: 1400px;
+	font-family: "Fjalla One", sans-serif;
+	
+}
+#call-abt {
+	text-align: right;
+    font-size: 20px;
+    font-weight: 700;
+    letter-spacing: 1.86px;
+    margin-right: 70px;
+    margin-bottom: 100px;
+    text-transform: uppercase
+}
+b {
+	display: block;
+	font-size: 26px;
+	margin-bottom: 10px;
+	color:  #ffbaa1;
+}
+.happiness {
+ float: left;
+ width: 400px;
+ margin-left: 100px;
+}
+.lane {
+	float: right;
+	margin-right: 100px;
+}
+.gorky {
+	float: right;
+	margin-right: 100px;
+}
+.kremlin {
+	float: left;
+ width: 400px;
+ margin-left: 100px;
+}
+.novgorod {
+	float: left;
+ width: 400px;
+ margin-left: 100px;
+}
+#info1 {
+width:400px; 
+float:right; 
+margin-left: 200px; 
+text-align: center;
+}
+#info2 {
+	width:400px; 
+	float:left; 
+	margin-left: 200px; 
+	text-align: center;
+}
+#inform1{
+	width:400px; 
+float:right; 
+margin-left: 200px; 
+text-align: center;
+}
+div {
+	color: tomato;
+	display: block;
+}
+.perm-pic {
+		width: 400px;
+		padding-left: 100px;
+	}
+
+#top-left-prm {
+	display: block;
+}
+#cont1 {
+	display: inline-block;
+	float: left;
+}
+#col1 {
+	float: center;
+}
+#main-top {
+	float: center;
+	display: block;
+	width: 50%;
+	text-align: justify;
+	height: 150px;
+	font-size: 0.6em;
+	margin-block-start: 5em;
+	margin-block-end: 1em;
+	margin-inline-start: 320px;
+	margin-inline-end: 200px;
+	font-weight: bold;
+}
+#main-bottom {
+	display: inline-block;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    width: 100%;
+    text-align: center;
+}
+#kazan-pic {
+	margin-left: 200px
+}
+#nizhny-pic {
+	margin-left: 450px;
+}
+figcaption {
+	display: block;
+	font-size: 25px;
+	font-weight: bold;
+	text-align: center;
+}
+.wrapper {
+	margin-top: 20px;
+}
+figure{
+	margin-block-start: 1em;
+    margin-block-end: 5em;
+    margin-inline-start: 100px;
+    margin-inline-end: 100px;
+	display: inline-block;
+	}
+a:hover {
+		color: white;
+	}
+
+nav li a.active {
+    color: #ffbaa1;
+}
+
+footer {
+	text-align: center;
+}
